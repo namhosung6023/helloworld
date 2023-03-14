@@ -18,5 +18,5 @@
 [대상 수상작 발표자료](/presentation.ppt.pptx)
 
 발표동영상
-<iframe width="942" height="530" src="https://www.youtube.com/embed/08hOk_iYsk8" title="[𝕡𝕝𝕒𝕪𝕝𝕚𝕤𝕥] 한번 들으면 하루종일 듣게 된다니까 진짜루 😎" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="500" src="https://www.youtube.com/embed/08hOk_iYsk8" title="[𝕡𝕝𝕒𝕪𝕝𝕚𝕤𝕥] 한번 들으면 하루종일 듣게 된다니까 진짜루 😎" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
